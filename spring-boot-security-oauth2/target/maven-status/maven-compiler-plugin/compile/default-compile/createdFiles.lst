@@ -1,0 +1,9 @@
+com\the\basic\tech\info\dao\UserDao.class
+com\the\basic\tech\info\config\OAuth2AuthorizationServerConfig.class
+com\the\basic\tech\info\controller\UserController.class
+com\the\basic\tech\info\config\OauthSecurityConfiguration.class
+com\the\basic\tech\info\model\User.class
+com\the\basic\tech\info\Application.class
+com\the\basic\tech\info\service\impl\UserServiceImpl.class
+com\the\basic\tech\info\service\UserService.class
+com\the\basic\tech\info\config\OAuth2ResourceServerConfig.class
